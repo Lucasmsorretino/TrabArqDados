@@ -1,333 +1,294 @@
 Nome: Marital Status
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 6
-Valores únicos: [0.  0.2 0.6 0.4 0.8 1. ]
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.2]
+Valores únicos: [1 2 4 3 5 6]
+Amostra de valores: [1, 1, 1, 1, 2]
 
 --------------------------------------------------
 
 Nome: Application mode
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 18
-Amostra dos valores únicos: [0.28571429 0.25       0.         0.67857143 0.30357143 0.92857143
- 0.76785714 0.89285714 0.75       0.10714286 0.73214286 0.26785714
- 0.07142857 0.01785714 0.16071429] ...
-Amostra de valores: [0.2857142857142857, 0.25, 0.0, 0.2857142857142857, 0.6785714285714285]
+Amostra dos valores únicos: [17 15  1 39 18 53 44 51 43  7 42 16  5  2 10] ...
+Amostra de valores: [17, 15, 1, 17, 39]
 
 --------------------------------------------------
 
 Nome: Application order
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 8
-Valores únicos: [0.55555556 0.11111111 0.22222222 0.44444444 0.33333333 0.66666667
- 1.         0.        ]
-Amostra de valores: [0.5555555555555556, 0.1111111111111111, 0.5555555555555556, 0.2222222222222222, 0.1111111111111111]
+Valores únicos: [5 1 2 4 3 6 9 0]
+Amostra de valores: [5, 1, 5, 2, 1]
 
 --------------------------------------------------
 
 Nome: Course
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 17
-Amostra dos valores únicos: [0.0138582  0.92598915 0.90751155 0.97810805 0.80146616 1.
- 0.95069291 0.92438241 0.96776461 0.9861418  0.90901788 0.91353685
- 0.95631653 0.91524402 0.90078329] ...
-Amostra de valores: [0.013858204458726651, 0.9259891544486845, 0.9075115485037156, 0.9781080538260695, 0.8014661578630247]
+Amostra dos valores únicos: [ 171 9254 9070 9773 8014 9991 9500 9238 9670 9853 9085 9130 9556 9147
+ 9003] ...
+Amostra de valores: [171, 9254, 9070, 9773, 8014]
 
 --------------------------------------------------
 
 Nome: Daytime/evening attendance
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 2
-Valores únicos: [1. 0.]
-Amostra de valores: [1.0, 1.0, 1.0, 1.0, 0.0]
+Valores únicos: [1 0]
+Amostra de valores: [1, 1, 1, 1, 0]
 
 --------------------------------------------------
 
 Nome: Previous qualification
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 17
-Amostra dos valores únicos: [0.         0.42857143 0.97619048 0.9047619  0.21428571 0.04761905
- 0.92857143 0.02380952 0.07142857 0.26190476 1.         0.33333333
- 0.11904762 0.19047619 0.88095238] ...
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Amostra dos valores únicos: [ 1 19 42 39 10  3 40  2  4 12 43 15  6  9 38] ...
+Amostra de valores: [1, 1, 1, 1, 1]
 
 --------------------------------------------------
 
 Nome: Previous qualification (grade)
 Tipo: float64
 Nº de valores únicos: 101
-Amostra dos valores únicos: [0.28421053 0.68421053 0.05263158 0.40105263 0.49473684 0.25263158
- 0.44210526 0.45263158 0.46315789 0.43157895 0.4        0.15789474
- 0.56842105 0.33684211 0.42105263] ...
-Amostra de valores: [0.28421052631578947, 0.6842105263157894, 0.28421052631578947, 0.28421052631578947, 0.05263157894736836]
+Amostra dos valores únicos: [122.  160.  100.  133.1 142.  119.  137.  138.  139.  136.  133.  110.
+ 149.  127.  135. ] ...
+Amostra de valores: [122.0, 160.0, 122.0, 122.0, 100.0]
 
 --------------------------------------------------
 
 Nome: Nacionality
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 21
-Amostra dos valores únicos: [0.         0.56481481 0.0462963  0.37037037 0.23148148 0.94444444
- 0.11111111 0.22222222 0.18518519 0.92592593 0.09259259 0.19444444
- 0.28703704 0.91666667 0.21296296] ...
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Amostra dos valores únicos: [  1  62   6  41  26 103  13  25  21 101  11  22  32 100  24] ...
+Amostra de valores: [1, 1, 1, 1, 1]
 
 --------------------------------------------------
 
 Nome: Mother's qualification
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 29
-Amostra dos valores únicos: [0.41860465 0.         0.8372093  0.86046512 0.04651163 0.06976744
- 0.95348837 0.02325581 0.76744186 0.25581395 0.90697674 0.18604651
- 0.09302326 0.88372093 0.23255814] ...
-Amostra de valores: [0.4186046511627907, 0.0, 0.8372093023255813, 0.8604651162790697, 0.8372093023255813]
+Amostra dos valores únicos: [19  1 37 38  3  4 42  2 34 12 40  9  5 39 11] ...
+Amostra de valores: [19, 1, 37, 38, 37]
 
 --------------------------------------------------
 
 Nome: Father's qualification
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 34
-Amostra dos valores únicos: [0.25581395 0.04651163 0.8372093  0.86046512 0.         0.41860465
- 0.09302326 0.06976744 0.76744186 0.02325581 0.88372093 0.23255814
- 0.18604651 0.81395349 0.58139535] ...
-Amostra de valores: [0.2558139534883721, 0.046511627906976744, 0.8372093023255813, 0.8372093023255813, 0.8604651162790697]
+Amostra dos valores únicos: [12  3 37 38  1 19  5  4 34  2 39 11  9 36 26] ...
+Amostra de valores: [12, 3, 37, 37, 38]
 
 --------------------------------------------------
 
 Nome: Mother's occupation
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 32
-Amostra dos valores únicos: [0.0257732  0.01546392 0.04639175 0.03608247 0.02061856 0.00515464
- 0.6443299  0.         0.03092784 0.01030928 0.46391753 0.04123711
- 0.72680412 0.90206186 0.51030928] ...
-Amostra de valores: [0.02577319587628866, 0.015463917525773196, 0.04639175257731959, 0.02577319587628866, 0.04639175257731959]
+Amostra dos valores únicos: [  5   3   9   7   4   1 125   0   6   2  90   8 141 175  99] ...
+Amostra de valores: [5, 3, 9, 5, 9]
 
 --------------------------------------------------
 
 Nome: Father's occupation
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 46
-Amostra dos valores únicos: [0.04615385 0.01538462 0.03589744 0.05128205 0.02564103 0.04102564
- 0.02051282 0.00512821 0.01025641 0.63589744 0.03076923 0.
- 0.46153846 0.8974359  0.62051282] ...
-Amostra de valores: [0.046153846153846156, 0.015384615384615385, 0.046153846153846156, 0.015384615384615385, 0.046153846153846156]
+Amostra dos valores únicos: [  9   3   7  10   5   8   4   1   2 124   6   0  90 175 121] ...
+Amostra de valores: [9, 3, 9, 3, 9]
 
 --------------------------------------------------
 
 Nome: Admission grade
 Tipo: float64
 Nº de valores únicos: 620
-Amostra dos valores únicos: [0.34       0.5        0.31368421 0.25894737 0.48947368 0.20842105
- 0.35157895 0.19052632 0.36105263 0.29473684 0.37473684 0.25578947
- 0.37052632 0.17684211 0.44315789] ...
-Amostra de valores: [0.33999999999999986, 0.5, 0.3136842105263158, 0.2589473684210526, 0.4894736842105263]
+Amostra dos valores únicos: [127.3 142.5 124.8 119.6 141.5 114.8 128.4 113.1 129.3 123.  130.6 119.3
+ 130.2 111.8 137.1] ...
+Amostra de valores: [127.3, 142.5, 124.8, 119.6, 141.5]
 
 --------------------------------------------------
 
 Nome: Displaced
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 2
-Valores únicos: [1. 0.]
-Amostra de valores: [1.0, 1.0, 1.0, 1.0, 0.0]
+Valores únicos: [1 0]
+Amostra de valores: [1, 1, 1, 1, 0]
 
 --------------------------------------------------
 
 Nome: Educational special needs
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 2
-Valores únicos: [0. 1.]
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Valores únicos: [0 1]
+Amostra de valores: [0, 0, 0, 0, 0]
 
 --------------------------------------------------
 
 Nome: Debtor
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 2
-Valores únicos: [0. 1.]
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Valores únicos: [0 1]
+Amostra de valores: [0, 0, 0, 0, 0]
 
 --------------------------------------------------
 
 Nome: Tuition fees up to date
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 2
-Valores únicos: [1. 0.]
-Amostra de valores: [1.0, 0.0, 0.0, 1.0, 1.0]
+Valores únicos: [1 0]
+Amostra de valores: [1, 0, 0, 1, 1]
 
 --------------------------------------------------
 
 Nome: Gender
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 2
-Valores únicos: [1. 0.]
-Amostra de valores: [1.0, 1.0, 1.0, 0.0, 0.0]
+Valores únicos: [1 0]
+Amostra de valores: [1, 1, 1, 0, 0]
 
 --------------------------------------------------
 
 Nome: Scholarship holder
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 2
-Valores únicos: [0. 1.]
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Valores únicos: [0 1]
+Amostra de valores: [0, 0, 0, 0, 0]
 
 --------------------------------------------------
 
 Nome: Age at enrollment
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 46
-Amostra dos valores únicos: [0.05660377 0.03773585 0.52830189 0.62264151 0.01886792 0.09433962
- 0.0754717  0.32075472 0.37735849 0.49056604 0.71698113 0.41509434
- 0.22641509 0.13207547 0.18867925] ...
-Amostra de valores: [0.05660377358490565, 0.037735849056603765, 0.037735849056603765, 0.05660377358490565, 0.5283018867924527]
+Amostra dos valores únicos: [20 19 45 50 18 22 21 34 37 43 55 39 29 24 27] ...
+Amostra de valores: [20, 19, 19, 20, 45]
 
 --------------------------------------------------
 
 Nome: International
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 2
-Valores únicos: [0. 1.]
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Valores únicos: [0 1]
+Amostra de valores: [0, 0, 0, 0, 0]
 
 --------------------------------------------------
 
 Nome: Curricular units 1st sem (credited)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 21
-Amostra dos valores únicos: [0.   0.1  0.15 0.3  0.35 0.65 0.2  0.05 0.25 0.95 0.55 0.4  0.5  0.45
- 0.75] ...
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Amostra dos valores únicos: [ 0  2  3  6  7 13  4  1  5 19 11  8 10  9 15] ...
+Amostra de valores: [0, 0, 0, 0, 0]
 
 --------------------------------------------------
 
 Nome: Curricular units 1st sem (enrolled)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 23
-Amostra dos valores únicos: [0.         0.23076923 0.19230769 0.26923077 0.30769231 0.03846154
- 0.46153846 0.38461538 0.69230769 0.34615385 0.80769231 0.11538462
- 0.65384615 0.61538462 0.42307692] ...
-Amostra de valores: [0.0, 0.23076923076923078, 0.23076923076923078, 0.23076923076923078, 0.23076923076923078]
+Amostra dos valores únicos: [ 0  6  5  7  8  1 12 10 18  9 21  3 17 16 11] ...
+Amostra de valores: [0, 6, 6, 6, 6]
 
 --------------------------------------------------
 
 Nome: Curricular units 1st sem (evaluations)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 35
-Amostra dos valores únicos: [0.         0.13333333 0.17777778 0.2        0.22222222 0.11111111
- 0.15555556 0.31111111 0.26666667 0.33333333 0.28888889 0.24444444
- 0.02222222 0.37777778 0.4       ] ...
-Amostra de valores: [0.0, 0.13333333333333333, 0.0, 0.17777777777777778, 0.2]
+Amostra dos valores únicos: [ 0  6  8  9 10  5  7 14 12 15 13 11  1 17 18] ...
+Amostra de valores: [0, 6, 0, 8, 9]
 
 --------------------------------------------------
 
 Nome: Curricular units 1st sem (approved)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 23
-Amostra dos valores únicos: [0.         0.23076923 0.19230769 0.26923077 0.15384615 0.03846154
- 0.11538462 0.07692308 0.30769231 0.69230769 0.38461538 0.34615385
- 0.80769231 0.42307692 0.5       ] ...
-Amostra de valores: [0.0, 0.23076923076923078, 0.0, 0.23076923076923078, 0.19230769230769232]
+Amostra dos valores únicos: [ 0  6  5  7  4  1  3  2  8 18 10  9 21 11 13] ...
+Amostra de valores: [0, 6, 0, 6, 5]
 
 --------------------------------------------------
 
 Nome: Curricular units 1st sem (grade)
 Tipo: float64
 Nº de valores únicos: 797
-Amostra dos valores únicos: [0.         0.74172185 0.71144749 0.65342163 0.628193   0.70463576
- 0.73509934 0.60397351 0.70009461 0.56007569 0.70198675 0.69933775
- 0.63576159 0.70496689 0.66225166] ...
-Amostra de valores: [0.0, 0.7417218543046358, 0.0, 0.7114474929801324, 0.6534216333774835]
+Amostra dos valores únicos: [ 0.         14.         13.42857143 12.33333333 11.85714286 13.3
+ 13.875      11.4        13.21428571 10.57142857 13.25       13.2
+ 12.         13.30625    12.5       ] ...
+Amostra de valores: [0.0, 14.0, 0.0, 13.42857143, 12.33333333]
 
 --------------------------------------------------
 
 Nome: Curricular units 1st sem (without evaluations)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 11
-Valores únicos: [0.         0.08333333 0.16666667 0.33333333 0.25       0.5
- 1.         0.83333333 0.58333333 0.41666667 0.66666667]
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Valores únicos: [ 0  1  2  4  3  6 12 10  7  5  8]
+Amostra de valores: [0, 0, 0, 0, 0]
 
 --------------------------------------------------
 
 Nome: Curricular units 2nd sem (credited)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 19
-Amostra dos valores únicos: [0.         0.05263158 0.10526316 0.26315789 0.36842105 0.21052632
- 0.52631579 0.15789474 0.68421053 0.47368421 0.31578947 0.57894737
- 0.63157895 0.42105263 0.73684211] ...
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Amostra dos valores únicos: [ 0  1  2  5  7  4 10  3 13  9  6 11 12  8 14] ...
+Amostra de valores: [0, 0, 0, 0, 0]
 
 --------------------------------------------------
 
 Nome: Curricular units 2nd sem (enrolled)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 22
-Amostra dos valores únicos: [0.         0.26086957 0.2173913  0.34782609 0.30434783 0.47826087
- 0.52173913 0.39130435 0.56521739 0.82608696 0.13043478 0.43478261
- 0.17391304 0.73913043 0.08695652] ...
-Amostra de valores: [0.0, 0.2608695652173913, 0.2608695652173913, 0.2608695652173913, 0.2608695652173913]
+Amostra dos valores únicos: [ 0  6  5  8  7 11 12  9 13 19  3 10  4 17  2] ...
+Amostra de valores: [0, 6, 6, 6, 6]
 
 --------------------------------------------------
 
 Nome: Curricular units 2nd sem (evaluations)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 30
-Amostra dos valores únicos: [0.         0.18181818 0.3030303  0.51515152 0.24242424 0.15151515
- 0.21212121 0.42424242 0.27272727 0.36363636 0.33333333 0.39393939
- 0.57575758 0.09090909 0.45454545] ...
-Amostra de valores: [0.0, 0.18181818181818182, 0.0, 0.30303030303030304, 0.18181818181818182]
+Amostra dos valores únicos: [ 0  6 10 17  8  5  7 14  9 12 11 13 19  3 15] ...
+Amostra de valores: [0, 6, 0, 10, 6]
 
 --------------------------------------------------
 
 Nome: Curricular units 2nd sem (approved)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 20
-Amostra dos valores únicos: [0.   0.3  0.25 0.4  0.1  0.35 0.2  0.05 0.15 0.5  0.65 0.55 0.95 0.45
- 0.6 ] ...
-Amostra de valores: [0.0, 0.30000000000000004, 0.0, 0.25, 0.30000000000000004]
+Amostra dos valores únicos: [ 0  6  5  8  2  7  4  1  3 10 13 11 19  9 12] ...
+Amostra de valores: [0, 6, 0, 5, 6]
 
 --------------------------------------------------
 
 Nome: Curricular units 2nd sem (grade)
 Tipo: float64
 Nº de valores únicos: 782
-Amostra dos valores únicos: [0.         0.73589744 0.66769231 0.7        0.61923077 0.77242308
- 0.76153846 0.72692308 0.76461538 0.71153846 0.59230769 0.64615385
- 0.78319231 0.65961538 0.61519231] ...
-Amostra de valores: [0.0, 0.7358974361335306, 0.0, 0.6676923077436687, 0.7000000000538462]
+Amostra dos valores únicos: [ 0.         13.66666667 12.4        13.         11.5        14.345
+ 14.14285714 13.5        14.2        13.21428571 11.         12.
+ 14.545      12.25       11.425     ] ...
+Amostra de valores: [0.0, 13.66666667, 0.0, 12.4, 13.0]
 
 --------------------------------------------------
 
 Nome: Curricular units 2nd sem (without evaluations)
-Tipo: float64
+Tipo: int64
 Nº de valores únicos: 10
-Valores únicos: [0.         0.41666667 0.16666667 0.08333333 0.25       0.5
- 0.33333333 1.         0.58333333 0.66666667]
-Amostra de valores: [0.0, 0.0, 0.0, 0.0, 0.0]
+Valores únicos: [ 0  5  2  1  3  6  4 12  7  8]
+Amostra de valores: [0, 0, 0, 0, 0]
 
 --------------------------------------------------
 
 Nome: Unemployment rate
 Tipo: float64
 Nº de valores únicos: 10
-Valores únicos: [0.37209302 0.73255814 0.20930233 1.         0.91860465 0.15116279
- 0.59302326 0.40697674 0.         0.55813953]
-Amostra de valores: [0.37209302325581406, 0.7325581395348838, 0.37209302325581406, 0.2093023255813954, 0.7325581395348838]
+Valores únicos: [10.8 13.9  9.4 16.2 15.5  8.9 12.7 11.1  7.6 12.4]
+Amostra de valores: [10.8, 13.9, 10.8, 9.4, 13.9]
 
 --------------------------------------------------
 
 Nome: Inflation rate
 Tipo: float64
 Nº de valores únicos: 9
-Valores únicos: [0.48888889 0.11111111 0.         0.24444444 0.8        1.
- 0.31111111 0.75555556 0.28888889]
-Amostra de valores: [0.4888888888888888, 0.11111111111111112, 0.4888888888888888, 0.0, 0.11111111111111112]
+Valores únicos: [ 1.4 -0.3 -0.8  0.3  2.8  3.7  0.6  2.6  0.5]
+Amostra de valores: [1.4, -0.3, 1.4, -0.8, -0.3]
 
 --------------------------------------------------
 
 Nome: GDP
 Tipo: float64
 Nº de valores únicos: 10
-Valores únicos: [0.7661823  0.64068692 0.12417437 0.41479524 0.         1.
- 0.31175694 0.80317041 0.57859974 0.77278732]
-Amostra de valores: [0.7661822985468957, 0.6406869220607662, 0.7661822985468957, 0.12417437252311753, 0.6406869220607662]
+Valores únicos: [ 1.74  0.79 -3.12 -0.92 -4.06  3.51 -1.7   2.02  0.32  1.79]
+Amostra de valores: [1.74, 0.79, 1.74, -3.12, 0.79]
 
 --------------------------------------------------
